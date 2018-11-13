@@ -1,0 +1,11 @@
+{
+  "name": "kairaeatbot",
+  "version": "1.0.0",
+  "description": "A bot for me to decide where I wanna eat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaira del Rosario",
+  "license": "ISC"
+}
